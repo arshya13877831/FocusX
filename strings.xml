@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusX</string>
+    <string name="accessibility_description">FocusX checks whether Instagram, TikTok, or YouTube has reached its daily limit and displays the lock screen.</string>
+</resources>
